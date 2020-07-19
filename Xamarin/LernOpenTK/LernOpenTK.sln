@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LernOpenTK_1", "LernOpenTK_1\LernOpenTK_1.csproj", "{2CE2FBCA-E9DE-4ED6-B98D-A9AD4F0B494F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CE2FBCA-E9DE-4ED6-B98D-A9AD4F0B494F}.Debug|x86.ActiveCfg = Debug|x86
+		{2CE2FBCA-E9DE-4ED6-B98D-A9AD4F0B494F}.Debug|x86.Build.0 = Debug|x86
+		{2CE2FBCA-E9DE-4ED6-B98D-A9AD4F0B494F}.Release|x86.ActiveCfg = Release|x86
+		{2CE2FBCA-E9DE-4ED6-B98D-A9AD4F0B494F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

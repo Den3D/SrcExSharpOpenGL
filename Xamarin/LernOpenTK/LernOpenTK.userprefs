@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{2CE2FBCA-E9DE-4ED6-B98D-A9AD4F0B494F}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.LernOpenTK__1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LernOpenTK_1\Program.cs">
+    <Files>
+      <File FileName="LernOpenTK_1\Program.cs" Line="11" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
