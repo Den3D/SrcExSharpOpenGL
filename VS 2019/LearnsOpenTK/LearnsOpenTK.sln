@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LearnOpenTK_1", "LearnOpenTK_1\LearnOpenTK_1.csproj", "{82892745-6CB0-4505-84C0-AB06D9AE0AA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnOpenTK_2", "LearnOpenTK_2\LearnOpenTK_2.csproj", "{76545CD3-C477-4FB3-A4E4-0ABA8ECC2F7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82892745-6CB0-4505-84C0-AB06D9AE0AA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82892745-6CB0-4505-84C0-AB06D9AE0AA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82892745-6CB0-4505-84C0-AB06D9AE0AA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82892745-6CB0-4505-84C0-AB06D9AE0AA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76545CD3-C477-4FB3-A4E4-0ABA8ECC2F7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76545CD3-C477-4FB3-A4E4-0ABA8ECC2F7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76545CD3-C477-4FB3-A4E4-0ABA8ECC2F7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76545CD3-C477-4FB3-A4E4-0ABA8ECC2F7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DBDB7DC-47DB-4819-94DB-6AC152410AC3}
+	EndGlobalSection
+EndGlobal

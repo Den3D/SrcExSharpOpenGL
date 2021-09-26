@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "ORr++C7Y8nA4/g+l/h2ti1GnGTPJj9z5QAFB/NBvS7QqCc/f6J2fj58SJP44gTU8P3JHoAdAfPlpZ1Y+TsrGHA==",
+  "success": true,
+  "projectFilePath": "J:\\ProjectLanguage\\VisualStudio\\VS 2019\\LearnsOpenTK\\LearnOpenTK_2\\LearnOpenTK_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\opentk\\4.6.4\\opentk.4.6.4.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\opentk.compute\\4.6.4\\opentk.compute.4.6.4.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\opentk.core\\4.6.4\\opentk.core.4.6.4.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\opentk.graphics\\4.6.4\\opentk.graphics.4.6.4.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\opentk.input\\4.6.4\\opentk.input.4.6.4.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\opentk.mathematics\\4.6.4\\opentk.mathematics.4.6.4.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\opentk.openal\\4.6.4\\opentk.openal.4.6.4.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\opentk.redist.glfw\\3.3.0-pre20200830200122\\opentk.redist.glfw.3.3.0-pre20200830200122.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\opentk.windowing.common\\4.6.4\\opentk.windowing.common.4.6.4.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\opentk.windowing.desktop\\4.6.4\\opentk.windowing.desktop.4.6.4.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\opentk.windowing.graphicslibraryframework\\4.6.4\\opentk.windowing.graphicslibraryframework.4.6.4.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
